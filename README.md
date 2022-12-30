@@ -2,7 +2,7 @@
 <h3>I'm just an Aspiring Developer</h3>
 <em>Converting caffeine to code</em>
 
-- 🔭 I’m currently working on Cross-platform app dev
+- 🔭 I’m currently working in Azure.
 
 - 📫 How to reach me naveenbjacob123@gmail.com
 
